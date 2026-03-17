@@ -157,7 +157,7 @@ body {
 }
 
 .slime {
-    background-image: url(./Images/hall2.jpg);
+    background-image: url(hall2.jpg);
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
